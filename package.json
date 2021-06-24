@@ -48,7 +48,11 @@
   "cds": {
     "requires": {
       "db": {
-        "kind": "sql"
+        "kind": "sqlite",
+        "model": "*",
+        "credentials": {
+          "database": "my.db"
+        }
       }
     },
     "hana": {

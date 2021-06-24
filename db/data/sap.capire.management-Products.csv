@@ -1,0 +1,10 @@
+ProductID,Category_CategoryID,ProductName,UnitsInStock
+1,1,"Chai",39
+2,1,"Chang",17
+3,2,"Aniseed Syrup",13
+4,2,"Chef Anton's Cajun Seasoning",53
+5,2,"Chef Anton's Gumbo Mix",0
+6,2,"Grandma's Boysenberry Spread",120
+7,7,"Uncle Bob's Organic Dried Pears",15
+8,2,"Northwoods Cranberry Sauce",6
+9,6,"Mishi Kobe Niku",29
